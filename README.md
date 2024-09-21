@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# RottenPotatoes Application
 
-Things you may want to cover:
+Programming Assignment 2 of the course Software Engineering (CSCE606) at Texas A&M University
 
-* Ruby version
+Submitted by: Prakhar Suryavansh (UIN: 936001838)
 
-* System dependencies
+## Link to my Heroku App
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://rottenpotatoes-ps-2ea1d4484295.herokuapp.com/

@@ -1,5 +1,5 @@
 <div id="<%= dom_id movie %>">
-  <p>
+  <p class="movie-title">
     <strong>Title:</strong>
     <%= movie.title %>
   </p>
@@ -16,7 +16,7 @@
 
   <p>
     <strong>Release date:</strong>
-    <%= movie.release_date %>
+    <%= movie.release_date.strftime("%d-%b-%Y") %>
   </p>
 
 </div>
